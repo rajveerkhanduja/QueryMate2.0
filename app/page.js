@@ -4,8 +4,8 @@ import Image from "next/image";
 export default function Home() {
   return (
     <div>
-      <h2>Subscribe To My YT</h2>
-      <Button>Subscribe</Button>
+      <h2>Welcome To QueryMate.<br>Home Page under development.</h2><br>
+      <Button>Add (/dashboard) to the URL</Button>
     </div>
   );
 }
